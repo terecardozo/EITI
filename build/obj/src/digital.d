@@ -1,6 +1,5 @@
-build/obj/src/digital.o: \
- /home/estudiante/Documentos/eiti/Proyectos/EITI_TPN3/src/digital.c \
- /home/estudiante/Documentos/eiti/Proyectos/EITI_TPN3/inc/digital.h \
+build/obj/src/digital.o: /home/estudiante/Proyectos/EITI/src/digital.c \
+ /home/estudiante/Proyectos/EITI/inc/digital.h \
  /home/estudiante/Documentos/eiti/Proyectos/muju/externals/base/soc/lpc43xx/lpc_chip_43xx/inc/chip.h \
  /home/estudiante/Documentos/eiti/Proyectos/muju/externals/base/soc/lpc43xx/lpc_chip_43xx/inc/sys_config.h \
  /home/estudiante/Documentos/eiti/Proyectos/muju/externals/base/soc/lpc43xx/lpc_chip_43xx/inc/cmsis.h \
